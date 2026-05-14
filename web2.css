@@ -1,0 +1,32 @@
+/* CSS cho nhãn hệ */
+.badge {
+  font-size: 10px;
+  padding: 2px 8px;
+  border-radius: 20px;
+  color: white;
+  margin-left: 10px;
+  text-transform: uppercase;
+}
+.grass { background-color: #78C850; }
+.fire { background-color: #F08030; }
+.water { background-color: #386dff}
+.electric { background-color: #fff700}
+.psychic { background-color: #ff46c1}
+.ice { background-color: #4effff}
+.normal { background-color: #f6ebba}
+.fight { background-color: #fc461d}
+.flying { background-color: #dec0f9}
+.poison { background-color: #91429a}
+.ground { background-color: #b09f2b}
+.rock { background-color: #7b7435}
+.bug { background-color: #658d3d}
+.ghost { background-color: #a282ad}
+.steel { background-color: #edeeffa4}
+.dragon { background-color: #3600b6}
+.dark { background-color: #000000}
+.fairy { background-color: #f88bf3}
+
+.info {
+  display: flex;
+  align-items: center;
+}

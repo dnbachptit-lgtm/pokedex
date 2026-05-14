@@ -1,0 +1,15 @@
+body{
+      line-height: 1.6;
+      background: #f4f4f4;
+    }
+h1{
+    color:aqua;
+    text-align: center;
+    background-color:bisque;
+    padding: 15px;
+    border-radius:8px;
+}
+p{
+    text-align: center;
+    font-size:18px;
+}
